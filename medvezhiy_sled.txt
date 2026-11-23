@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-montreal-fold-admit-excluded.trycloudflare.com
-=======
-ottawa-expires-adam-antenna.trycloudflare.com
->>>>>>> Stashed changes
+cal-receipt-shots-steel.trycloudflare.com
